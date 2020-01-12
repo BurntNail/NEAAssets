@@ -1,0 +1,13 @@
+module playerSees {
+    name=sDrop Tower
+    info=sA simple tower, that drops bombs when enemies approach it.
+    dmg=s15 points of damage per drop.
+    fireRate=sCooldown of 10 seconds
+    range=s1 tile.
+}
+
+module compSees {
+    dmg=i15
+    fireRate=i10
+    range=i5
+}
